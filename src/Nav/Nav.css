@@ -1,0 +1,22 @@
+.nav-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: #000232;
+    justify-content: space-between;
+    padding: 0 240px;
+}
+
+.SC-logo{
+   height: 50px;
+    padding: 3.03px, 1.89px, 3.04px, 1.9px;
+}
+
+.home-page-link{
+    text-decoration: none;
+    font-size: 20px;
+    color: #FFFFFF;
+    font-weight: 800;
+}
+
+
